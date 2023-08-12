@@ -1,5 +1,7 @@
 # s-phone
 
+ONLY WORKS PMA_VOICE !!!!
+
 This version 0.0.1 will be developed in the future.
 
 ## Features
