@@ -150,7 +150,7 @@ Citizen.CreateThread(function()
         if xSound:soundExists(musicId) and playing then
             if xSound:isPlaying(musicId) then
                 pos = vector3(-187.7973, 626.8018, 114.0321)
-                TriggerServerEvent("myevent:soundStatus", "position", musicId, { position = pos })
+                TriggerServerEvent("soundStatus", "position", musicId, { position = pos })
             else
                 Citizen.Wait(1000)
             end
