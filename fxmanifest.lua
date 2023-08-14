@@ -3,7 +3,7 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 
 game 'rdr3'
 lua54 'yes'
-version '0.0.1'
+version '0.0.2'
 author 'huzurweriN'
 
 client_scripts {
@@ -29,7 +29,6 @@ files {
 
 dependencies { 
     'vorp_core',
-    'bcc-utils',
     'xsound'
 }
 

@@ -21,6 +21,18 @@ function stincomingcalls ()
     exports['pma-voice']:setCallChannel(1.9)
 end
 
+function valsherrif ()
+    exports['pma-voice']:setCallChannel(2.0)
+end
+
+function bwsherrif ()
+    exports['pma-voice']:setCallChannel(2.1)
+end
+
+function stsherrif ()
+    exports['pma-voice']:setCallChannel(2.2)
+end
+
 function disconnect ()
     exports['pma-voice']:setCallChannel(0)
 end
