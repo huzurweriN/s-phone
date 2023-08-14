@@ -2,7 +2,7 @@
 
 ONLY WORKS PMA_VOICE !!!!
 
-This version 0.0.1 will be developed in the future.
+This version 0.0.2 will be developed in the future.
 
 ## Features
 1. Designed for players to call each other between stations
